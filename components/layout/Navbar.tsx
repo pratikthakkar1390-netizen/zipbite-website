@@ -50,14 +50,7 @@ export function Navbar() {
           </nav>
 
           <div className="flex items-center gap-2">
-            <Button
-              href="/login"
-              variant="primary"
-              size="sm"
-              className="hidden sm:inline-flex"
-            >
-              Log In
-            </Button>
+            
 
             <button
               type="button"
