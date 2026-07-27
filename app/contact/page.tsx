@@ -85,14 +85,14 @@ export default function ContactPage() {
             <div className="rounded-2xl border p-6">
               <h3 className="font-semibold text-lg">Business Email</h3>
               <p className="text-gray-600 mt-2">
-                Coming Soon
+                contact@zip-bite.com
               </p>
             </div>
 
             <div className="rounded-2xl border p-6">
               <h3 className="font-semibold text-lg">Phone</h3>
               <p className="text-gray-600 mt-2">
-                Coming Soon
+                (732) 762-6777
               </p>
             </div>
 
